@@ -5,8 +5,8 @@
 
 <?php
     $persona= [
-        "nome" => "Daniele",
-        "età" => 38,
+        "nome" => " Ciro",
+        "età" => 27,
         "città" => "Napoli"
     ];
 
